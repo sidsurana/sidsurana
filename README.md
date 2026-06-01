@@ -1,16 +1,21 @@
-## Hi there 👋
+### Hi, I'm Sid
 
-<!--
-**sidsurana/sidsurana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build AI products for industries that still run on spreadsheets and PDFs.
 
-Here are some ideas to get you started:
+**What I'm working on**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [Middleman](https://middlman.ai) — Co-Founder & CTO. AI platform for private markets deal workflows. Five-agent swarm, per-deal RAG with inline citations, document generation across Excel, Word, and PowerPoint. 3-person team, 30+ demos with boutique IB and PE firms.
+
+- Mero — Co-Founder & CTO. AI-native inventory and operations platform for independent jewelry retailers. Built on Supabase, piloting through my family's wholesale network.
+
+**Open source**
+
+- [finance-chunker](https://github.com/sidsurana/finance-chunker) — Finance-aware document chunking for RAG pipelines. Carved out of production use at Middleman. On PyPI.
+
+**Background**
+
+CS and Economics at the University of Pittsburgh. Previously data engineering at RBC and software at NXTKey.
+
+**Reach me**
+
+surana.siddarth@gmail.com
