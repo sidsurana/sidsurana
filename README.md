@@ -16,7 +16,7 @@ I build AI products for industries that still run on spreadsheets and PDFs.
 **[Middleman](https://middlman.ai)** — Co-Founder & CTO  
 AI platform for private markets deal workflows. Five-agent swarm, per-deal RAG with inline citations, document generation across Excel, Word, and PowerPoint. 3-person team, 30+ demos with boutique IB and PE firms.
 
-**Mero** — Co-Founder & CEO  
+**Mero(https://merohq.com)** — Co-Founder & CEO  
 AI-native inventory and operations platform for independent jewelry retailers. Built on Supabase, piloting through my family's wholesale network.
 
 ---
